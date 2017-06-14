@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>PointStorage/osc_clk.txt</file>
+    </qresource>
+</RCC>
